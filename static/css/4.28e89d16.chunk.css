@@ -1,0 +1,2 @@
+.peo_List{display:grid;background:grey;grid-template-rows:1fr 19fr;grid-template-areas:"panel" "list"}.peo_List_Panel{grid-area:panel}.peo_List_Peo{margin:auto;grid-area:list}.width{width:47.5%}
+/*# sourceMappingURL=4.28e89d16.chunk.css.map */
