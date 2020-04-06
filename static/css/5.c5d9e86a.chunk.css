@@ -1,2 +1,0 @@
-.prof_Section{background:grey;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr 1fr;display:grid;grid-template-areas:"sett sett" "ava desc" "prod prod"}.prof_Sett{grid-area:sett;border:solid #000}.prof_Ava{grid-area:ava;border:solid #000}.prof_Desc{grid-area:desc;border:solid #000}.prof_Prod{grid-area:prod;border:solid #000}
-/*# sourceMappingURL=5.c5d9e86a.chunk.css.map */
